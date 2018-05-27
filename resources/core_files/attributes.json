@@ -1,0 +1,4 @@
+{
+  "veg" : ["veg", "vegetarian"],
+  "non_veg": ["chicken", "egg", "non veg", "non-veg", "mutton", "fish", "beef"]
+}
