@@ -1,0 +1,475 @@
+query,intent
+can you reminder attend with 5 pm,SET_REMINDER
+can you reminder ceremony with 3 am,SET_REMINDER
+remember ceremony at 5 pm,SET_REMINDER
+remind me meeting with 5 pm,SET_REMINDER
+can you I have an attend with 2 pm,SET_REMINDER
+I need to attend at 2 pm,SET_REMINDER
+reminder ceremony at 2 pm,SET_REMINDER
+please remember ceremony with 3 am,SET_REMINDER
+please I need to attend with 5 pm,SET_REMINDER
+I have an attend with 2 pm,SET_REMINDER
+please want to listen music,MUSIC
+please I need to appointment with 5 pm,SET_REMINDER
+can you reminder attend at 2 pm,SET_REMINDER
+can you remember meeting at 2 pm,SET_REMINDER
+please I need to attend at 5 pm,SET_REMINDER
+remember attend at 2 pm,SET_REMINDER
+please I have an attend at 3 am,SET_REMINDER
+I have an appointment at 2 pm,SET_REMINDER
+can you I have an ceremony with 5 pm,SET_REMINDER
+remind me meetup at 5 pm,SET_REMINDER
+please I have an meetup at 5 pm,SET_REMINDER
+can you I have an meeting at 5 pm,SET_REMINDER
+please remember meeting with 3 am,SET_REMINDER
+remind me meeting at 3 am,SET_REMINDER
+can you I need to ceremony at 5 pm,SET_REMINDER
+I have an attend at 3 am,SET_REMINDER
+please reminder meeting with 5 pm,SET_REMINDER
+remind me meetup with 3 am,SET_REMINDER
+I have an ceremony at 5 pm,SET_REMINDER
+remember meetup with 5 pm,SET_REMINDER
+I need to appointment with 3 am,SET_REMINDER
+please I need to meeting at 5 pm,SET_REMINDER
+can you remind me ceremony at 2 pm,SET_REMINDER
+can you remember attend with 2 pm,SET_REMINDER
+please remind me attend at 2 pm,SET_REMINDER
+want to listen song,MUSIC
+please I have an ceremony with 3 am,SET_REMINDER
+please remind me attend with 5 pm,SET_REMINDER
+remind me meeting with 2 pm,SET_REMINDER
+can you remind me attend with 2 pm,SET_REMINDER
+please reminder meeting at 5 pm,SET_REMINDER
+please remind me meetup at 2 pm,SET_REMINDER
+please remember meeting at 2 pm,SET_REMINDER
+remind me meeting at 2 pm,SET_REMINDER
+please remind me meeting at 5 pm,SET_REMINDER
+can you reminder meeting at 2 pm,SET_REMINDER
+I need to meetup with 5 pm,SET_REMINDER
+please I have an meeting at 5 pm,SET_REMINDER
+can you remind me meeting with 2 pm,SET_REMINDER
+please I need to meetup with 5 pm,SET_REMINDER
+I need to appointment with 2 pm,SET_REMINDER
+please reminder meetup with 2 pm,SET_REMINDER
+can you remember ceremony at 5 pm,SET_REMINDER
+can you tell me any appointment,GET_REMINDER
+can you I need to appointment at 3 am,SET_REMINDER
+can you remember ceremony with 5 pm,SET_REMINDER
+can you I have an appointment with 3 am,SET_REMINDER
+can you I have an attend at 2 pm,SET_REMINDER
+I need to meetup at 2 pm,SET_REMINDER
+can you I have an meeting with 5 pm,SET_REMINDER
+remind me ceremony with 2 pm,SET_REMINDER
+please reminder meetup at 3 am,SET_REMINDER
+can you remind me meeting at 5 pm,SET_REMINDER
+please remember meetup with 5 pm,SET_REMINDER
+remind me attend at 2 pm,SET_REMINDER
+can you remind me meetup at 3 am,SET_REMINDER
+please reminder meetup with 3 am,SET_REMINDER
+please reminder meeting at 3 am,SET_REMINDER
+please remind me meeting with 5 pm,SET_REMINDER
+can you remember meeting with 3 am,SET_REMINDER
+remind me appointment at 3 am,SET_REMINDER
+remind me meeting at 5 pm,SET_REMINDER
+please I need to ceremony with 3 am,SET_REMINDER
+can you I need to ceremony at 3 am,SET_REMINDER
+I need to attend with 5 pm,SET_REMINDER
+can you remind me ceremony with 2 pm,SET_REMINDER
+remember meetup with 2 pm,SET_REMINDER
+please when is next meeting,GET_REMINDER
+I have an ceremony at 3 am,SET_REMINDER
+can you reminder meetup with 3 am,SET_REMINDER
+can you I have an ceremony at 3 am,SET_REMINDER
+reminder appointment at 5 pm,SET_REMINDER
+please I have an meeting with 5 pm,SET_REMINDER
+can you I need to meeting with 3 am,SET_REMINDER
+can you remember ceremony at 3 am,SET_REMINDER
+reminder appointment with 3 am,SET_REMINDER
+please remind me appointment at 3 am,SET_REMINDER
+can you reminder appointment at 5 pm,SET_REMINDER
+remember ceremony with 2 pm,SET_REMINDER
+please I need to appointment at 5 pm,SET_REMINDER
+please reminder appointment with 2 pm,SET_REMINDER
+can you I need to meeting with 2 pm,SET_REMINDER
+please I have an ceremony with 2 pm,SET_REMINDER
+I have an meeting with 3 am,SET_REMINDER
+can you reminder meeting with 5 pm,SET_REMINDER
+please remind me ceremony at 3 am,SET_REMINDER
+can you I have an appointment with 5 pm,SET_REMINDER
+reminder ceremony at 5 pm,SET_REMINDER
+please I have an appointment with 5 pm,SET_REMINDER
+please remind me meeting at 2 pm,SET_REMINDER
+can you remind me meetup with 2 pm,SET_REMINDER
+remember ceremony at 2 pm,SET_REMINDER
+please remember attend at 2 pm,SET_REMINDER
+I need to ceremony with 5 pm,SET_REMINDER
+reminder meetup at 2 pm,SET_REMINDER
+please I need to attend with 2 pm,SET_REMINDER
+can you remind me meeting at 3 am,SET_REMINDER
+I have an appointment with 5 pm,SET_REMINDER
+can you I have an meeting with 2 pm,SET_REMINDER
+can you remind me meetup at 5 pm,SET_REMINDER
+please reminder attend with 5 pm,SET_REMINDER
+please I need to appointment with 3 am,SET_REMINDER
+I have an meetup with 3 am,SET_REMINDER
+reminder attend with 2 pm,SET_REMINDER
+remember meetup at 3 am,SET_REMINDER
+I need to meeting with 5 pm,SET_REMINDER
+reminder appointment at 3 am,SET_REMINDER
+please reminder meeting with 3 am,SET_REMINDER
+can you reminder ceremony at 2 pm,SET_REMINDER
+can you reminder attend with 3 am,SET_REMINDER
+can you remind me ceremony at 5 pm,SET_REMINDER
+please remember attend at 5 pm,SET_REMINDER
+I need to attend at 5 pm,SET_REMINDER
+can you remind me appointment with 5 pm,SET_REMINDER
+can you I have an meeting at 3 am,SET_REMINDER
+please I have an appointment with 2 pm,SET_REMINDER
+reminder attend at 5 pm,SET_REMINDER
+please remember appointment with 3 am,SET_REMINDER
+reminder attend with 5 pm,SET_REMINDER
+when is next meeting,GET_REMINDER
+please remember ceremony at 2 pm,SET_REMINDER
+please remind me appointment with 2 pm,SET_REMINDER
+can you remind me meetup with 5 pm,SET_REMINDER
+please reminder attend with 2 pm,SET_REMINDER
+please remember ceremony with 5 pm,SET_REMINDER
+want to listen music,MUSIC
+can you remember meetup at 3 am,SET_REMINDER
+please reminder attend at 2 pm,SET_REMINDER
+can you I have an appointment at 2 pm,SET_REMINDER
+can you remind me attend with 5 pm,SET_REMINDER
+can you tell me any meetings,GET_REMINDER
+can you I have an meeting with 3 am,SET_REMINDER
+please I have an ceremony at 2 pm,SET_REMINDER
+please remember ceremony at 5 pm,SET_REMINDER
+remember meeting at 2 pm,SET_REMINDER
+I have an attend with 5 pm,SET_REMINDER
+can you remind me ceremony with 3 am,SET_REMINDER
+can you I need to ceremony with 5 pm,SET_REMINDER
+please remember ceremony at 3 am,SET_REMINDER
+reminder ceremony at 3 am,SET_REMINDER
+can you remember meetup with 5 pm,SET_REMINDER
+remember attend with 5 pm,SET_REMINDER
+can you tell me next meeting,GET_REMINDER
+remind me attend at 5 pm,SET_REMINDER
+please remind me appointment at 2 pm,SET_REMINDER
+reminder meeting at 5 pm,SET_REMINDER
+please remember meetup at 5 pm,SET_REMINDER
+please remember attend with 2 pm,SET_REMINDER
+can you reminder appointment at 3 am,SET_REMINDER
+please reminder attend at 5 pm,SET_REMINDER
+please remember meeting at 3 am,SET_REMINDER
+please remind me ceremony with 5 pm,SET_REMINDER
+please I have an attend with 3 am,SET_REMINDER
+remember meetup with 3 am,SET_REMINDER
+I have an appointment with 2 pm,SET_REMINDER
+please reminder appointment with 3 am,SET_REMINDER
+can you I have an appointment with 2 pm,SET_REMINDER
+can you reminder meeting with 3 am,SET_REMINDER
+can you I need to meeting at 3 am,SET_REMINDER
+please reminder meeting at 2 pm,SET_REMINDER
+reminder attend at 2 pm,SET_REMINDER
+can you reminder meetup at 5 pm,SET_REMINDER
+please I have an meetup at 2 pm,SET_REMINDER
+can you I need to appointment at 5 pm,SET_REMINDER
+please remember appointment at 3 am,SET_REMINDER
+please remind me appointment with 5 pm,SET_REMINDER
+can you remind me ceremony with 5 pm,SET_REMINDER
+please I have an meeting at 2 pm,SET_REMINDER
+I need to meeting with 2 pm,SET_REMINDER
+reminder appointment with 2 pm,SET_REMINDER
+remind me attend with 2 pm,SET_REMINDER
+can you I need to meeting at 2 pm,SET_REMINDER
+please reminder ceremony at 3 am,SET_REMINDER
+can you reminder meetup with 5 pm,SET_REMINDER
+I need to meeting at 5 pm,SET_REMINDER
+can you I have an ceremony at 2 pm,SET_REMINDER
+please remember meetup at 3 am,SET_REMINDER
+please I need to ceremony at 3 am,SET_REMINDER
+I have an ceremony at 2 pm,SET_REMINDER
+can you I need to appointment with 2 pm,SET_REMINDER
+can you remember meetup with 2 pm,SET_REMINDER
+can you reminder ceremony with 2 pm,SET_REMINDER
+please I need to meetup at 5 pm,SET_REMINDER
+can you reminder ceremony at 5 pm,SET_REMINDER
+remind me meeting with 3 am,SET_REMINDER
+I need to ceremony at 5 pm,SET_REMINDER
+please I need to meeting with 3 am,SET_REMINDER
+I have an ceremony with 5 pm,SET_REMINDER
+please remind me attend with 3 am,SET_REMINDER
+please I need to meetup with 2 pm,SET_REMINDER
+can you I have an attend with 5 pm,SET_REMINDER
+reminder meeting with 5 pm,SET_REMINDER
+I need to attend with 2 pm,SET_REMINDER
+can you remember appointment at 2 pm,SET_REMINDER
+I have an attend with 3 am,SET_REMINDER
+please remind me meetup with 5 pm,SET_REMINDER
+remember appointment with 5 pm,SET_REMINDER
+please remember appointment with 5 pm,SET_REMINDER
+remember meeting at 3 am,SET_REMINDER
+I need to attend at 3 am,SET_REMINDER
+can you reminder meetup with 2 pm,SET_REMINDER
+want to listen songs,MUSIC
+reminder meetup with 3 am,SET_REMINDER
+can you I have an ceremony with 2 pm,SET_REMINDER
+please remind me meeting at 3 am,SET_REMINDER
+remember meetup at 5 pm,SET_REMINDER
+I have an meeting with 5 pm,SET_REMINDER
+please remember meetup at 2 pm,SET_REMINDER
+remind me appointment with 2 pm,SET_REMINDER
+please remember attend at 3 am,SET_REMINDER
+can you I need to appointment with 5 pm,SET_REMINDER
+please when is any meetings,GET_REMINDER
+can you remind me attend with 3 am,SET_REMINDER
+please remind me ceremony at 5 pm,SET_REMINDER
+I have an meetup at 3 am,SET_REMINDER
+can you remember attend at 5 pm,SET_REMINDER
+reminder appointment with 5 pm,SET_REMINDER
+reminder ceremony with 2 pm,SET_REMINDER
+please I have an meetup with 2 pm,SET_REMINDER
+I need to attend with 3 am,SET_REMINDER
+can you remember appointment at 5 pm,SET_REMINDER
+can you I have an meetup with 5 pm,SET_REMINDER
+reminder ceremony with 5 pm,SET_REMINDER
+can you I have an meetup at 2 pm,SET_REMINDER
+please I need to meetup with 3 am,SET_REMINDER
+please I need to meeting with 2 pm,SET_REMINDER
+remind me ceremony with 3 am,SET_REMINDER
+in mood to listen songs,MUSIC
+can you I have an ceremony with 3 am,SET_REMINDER
+can you remind me attend at 5 pm,SET_REMINDER
+can you I have an meeting at 2 pm,SET_REMINDER
+can you I have an attend at 5 pm,SET_REMINDER
+remind me meetup with 5 pm,SET_REMINDER
+remember meeting with 2 pm,SET_REMINDER
+remind me appointment at 2 pm,SET_REMINDER
+can you I have an ceremony at 5 pm,SET_REMINDER
+please I need to ceremony at 5 pm,SET_REMINDER
+please I need to ceremony at 2 pm,SET_REMINDER
+can you I need to ceremony with 3 am,SET_REMINDER
+I have an meetup at 5 pm,SET_REMINDER
+remind me meetup at 2 pm,SET_REMINDER
+I have an ceremony with 3 am,SET_REMINDER
+I need to appointment with 5 pm,SET_REMINDER
+please remember attend with 3 am,SET_REMINDER
+remember appointment at 3 am,SET_REMINDER
+in mood to listen music,MUSIC
+remind me meetup at 3 am,SET_REMINDER
+can you remember appointment with 5 pm,SET_REMINDER
+please remember appointment at 2 pm,SET_REMINDER
+can you I have an meetup with 2 pm,SET_REMINDER
+remember attend at 5 pm,SET_REMINDER
+please reminder meetup at 2 pm,SET_REMINDER
+can you I need to meetup with 3 am,SET_REMINDER
+can you remember meetup at 5 pm,SET_REMINDER
+please reminder appointment at 5 pm,SET_REMINDER
+I have an meeting at 3 am,SET_REMINDER
+remember meeting with 5 pm,SET_REMINDER
+I need to meetup at 5 pm,SET_REMINDER
+can you I need to attend with 5 pm,SET_REMINDER
+please I have an ceremony at 5 pm,SET_REMINDER
+can you I need to meetup at 2 pm,SET_REMINDER
+remind me appointment with 3 am,SET_REMINDER
+please reminder meeting with 2 pm,SET_REMINDER
+please remember meeting with 2 pm,SET_REMINDER
+I have an appointment at 3 am,SET_REMINDER
+please I need to appointment at 3 am,SET_REMINDER
+please reminder appointment at 3 am,SET_REMINDER
+please reminder meetup with 5 pm,SET_REMINDER
+please I have an appointment at 5 pm,SET_REMINDER
+please I need to attend at 2 pm,SET_REMINDER
+can you I need to ceremony at 2 pm,SET_REMINDER
+can you I have an appointment at 5 pm,SET_REMINDER
+can you remind me ceremony at 3 am,SET_REMINDER
+please I have an appointment at 2 pm,SET_REMINDER
+please reminder meetup at 5 pm,SET_REMINDER
+can you I have an meetup at 5 pm,SET_REMINDER
+please I need to appointment with 2 pm,SET_REMINDER
+please remind me meetup with 2 pm,SET_REMINDER
+I need to appointment at 3 am,SET_REMINDER
+can you I need to appointment at 2 pm,SET_REMINDER
+I need to meeting at 2 pm,SET_REMINDER
+please I need to meeting at 2 pm,SET_REMINDER
+remind me appointment at 5 pm,SET_REMINDER
+I need to ceremony with 3 am,SET_REMINDER
+can you I need to attend at 3 am,SET_REMINDER
+remember ceremony with 3 am,SET_REMINDER
+I need to meetup with 3 am,SET_REMINDER
+please remember meetup with 2 pm,SET_REMINDER
+can you remember ceremony at 2 pm,SET_REMINDER
+can you remind me appointment with 2 pm,SET_REMINDER
+I need to meetup with 2 pm,SET_REMINDER
+reminder meeting at 2 pm,SET_REMINDER
+can you reminder attend at 3 am,SET_REMINDER
+please in mood to listen music,MUSIC
+can you remember meeting with 2 pm,SET_REMINDER
+can you I have an meetup with 3 am,SET_REMINDER
+reminder meetup at 3 am,SET_REMINDER
+can you I have an attend at 3 am,SET_REMINDER
+please I need to ceremony with 5 pm,SET_REMINDER
+reminder meetup with 5 pm,SET_REMINDER
+please want to listen song,MUSIC
+can you remember meetup with 3 am,SET_REMINDER
+please remember attend with 5 pm,SET_REMINDER
+in mood to listen song,MUSIC
+can you remember meetup at 2 pm,SET_REMINDER
+please remember meetup with 3 am,SET_REMINDER
+please want to listen songs,MUSIC
+I have an ceremony with 2 pm,SET_REMINDER
+I need to ceremony at 3 am,SET_REMINDER
+please I have an meetup with 5 pm,SET_REMINDER
+can you remind me meeting with 3 am,SET_REMINDER
+reminder meeting with 3 am,SET_REMINDER
+reminder meeting at 3 am,SET_REMINDER
+can you I need to meeting at 5 pm,SET_REMINDER
+remember meeting with 3 am,SET_REMINDER
+please I have an ceremony at 3 am,SET_REMINDER
+please I have an appointment at 3 am,SET_REMINDER
+can you reminder appointment at 2 pm,SET_REMINDER
+can you I need to meeting with 5 pm,SET_REMINDER
+please remind me meetup at 5 pm,SET_REMINDER
+can you I need to meetup at 5 pm,SET_REMINDER
+please I have an meetup with 3 am,SET_REMINDER
+I have an attend at 5 pm,SET_REMINDER
+remember appointment with 3 am,SET_REMINDER
+can you reminder meeting with 2 pm,SET_REMINDER
+please I have an meetup at 3 am,SET_REMINDER
+please reminder ceremony with 5 pm,SET_REMINDER
+remember attend with 2 pm,SET_REMINDER
+please reminder attend at 3 am,SET_REMINDER
+reminder meetup at 5 pm,SET_REMINDER
+when is any meetings,GET_REMINDER
+please I need to attend with 3 am,SET_REMINDER
+please I have an appointment with 3 am,SET_REMINDER
+can you I need to appointment with 3 am,SET_REMINDER
+can you I need to attend with 2 pm,SET_REMINDER
+can you I have an appointment at 3 am,SET_REMINDER
+please can you tell me next meeting,GET_REMINDER
+can you remember attend at 2 pm,SET_REMINDER
+reminder meetup with 2 pm,SET_REMINDER
+please reminder ceremony at 2 pm,SET_REMINDER
+can you I need to meetup with 2 pm,SET_REMINDER
+I have an meetup at 2 pm,SET_REMINDER
+reminder attend at 3 am,SET_REMINDER
+remember ceremony at 3 am,SET_REMINDER
+can you reminder meetup at 3 am,SET_REMINDER
+please in mood to listen song,MUSIC
+please I need to ceremony with 2 pm,SET_REMINDER
+can you I need to attend at 5 pm,SET_REMINDER
+can you remind me appointment with 3 am,SET_REMINDER
+please reminder ceremony with 2 pm,SET_REMINDER
+I have an meeting with 2 pm,SET_REMINDER
+I need to meeting at 3 am,SET_REMINDER
+please remind me ceremony at 2 pm,SET_REMINDER
+can you reminder attend with 2 pm,SET_REMINDER
+I have an meetup with 5 pm,SET_REMINDER
+when is any appointment,GET_REMINDER
+please I need to meetup at 3 am,SET_REMINDER
+can you I need to ceremony with 2 pm,SET_REMINDER
+please I need to meeting at 3 am,SET_REMINDER
+please can you tell me any meetings,GET_REMINDER
+can you remember ceremony with 3 am,SET_REMINDER
+please in mood to listen songs,MUSIC
+can you I need to meetup at 3 am,SET_REMINDER
+can you remember appointment with 2 pm,SET_REMINDER
+please when is any appointment,GET_REMINDER
+please can you tell me any appointment,GET_REMINDER
+I need to appointment at 2 pm,SET_REMINDER
+I have an attend at 2 pm,SET_REMINDER
+can you remember attend at 3 am,SET_REMINDER
+remember appointment at 5 pm,SET_REMINDER
+I have an meeting at 5 pm,SET_REMINDER
+can you reminder ceremony with 5 pm,SET_REMINDER
+please I have an meeting with 3 am,SET_REMINDER
+remind me ceremony at 3 am,SET_REMINDER
+can you remember appointment at 3 am,SET_REMINDER
+I have an meeting at 2 pm,SET_REMINDER
+can you reminder ceremony at 3 am,SET_REMINDER
+can you remind me meetup at 2 pm,SET_REMINDER
+I need to appointment at 5 pm,SET_REMINDER
+please remind me ceremony with 2 pm,SET_REMINDER
+can you reminder meetup at 2 pm,SET_REMINDER
+please remind me attend at 5 pm,SET_REMINDER
+remember meeting at 5 pm,SET_REMINDER
+please reminder appointment at 2 pm,SET_REMINDER
+can you reminder appointment with 3 am,SET_REMINDER
+I need to meeting with 3 am,SET_REMINDER
+please I need to meeting with 5 pm,SET_REMINDER
+can you I need to attend at 2 pm,SET_REMINDER
+can you I have an attend with 3 am,SET_REMINDER
+please I need to meetup at 2 pm,SET_REMINDER
+can you reminder meeting at 3 am,SET_REMINDER
+remind me appointment with 5 pm,SET_REMINDER
+please remind me appointment at 5 pm,SET_REMINDER
+please I have an attend with 5 pm,SET_REMINDER
+please remind me attend with 2 pm,SET_REMINDER
+please reminder ceremony at 5 pm,SET_REMINDER
+remind me meetup with 2 pm,SET_REMINDER
+I need to ceremony with 2 pm,SET_REMINDER
+I need to ceremony at 2 pm,SET_REMINDER
+remind me ceremony with 5 pm,SET_REMINDER
+please remind me attend at 3 am,SET_REMINDER
+can you remind me meetup with 3 am,SET_REMINDER
+please reminder ceremony with 3 am,SET_REMINDER
+remember ceremony with 5 pm,SET_REMINDER
+please I have an ceremony with 5 pm,SET_REMINDER
+can you remind me attend at 2 pm,SET_REMINDER
+can you remind me appointment at 5 pm,SET_REMINDER
+can you remember ceremony with 2 pm,SET_REMINDER
+reminder attend with 3 am,SET_REMINDER
+please remind me meetup with 3 am,SET_REMINDER
+can you reminder attend at 5 pm,SET_REMINDER
+remember meetup at 2 pm,SET_REMINDER
+please I need to attend at 3 am,SET_REMINDER
+reminder appointment at 2 pm,SET_REMINDER
+reminder ceremony with 3 am,SET_REMINDER
+can you remember meeting with 5 pm,SET_REMINDER
+please remember appointment with 2 pm,SET_REMINDER
+I have an appointment with 3 am,SET_REMINDER
+reminder meeting with 2 pm,SET_REMINDER
+can you remind me appointment at 2 pm,SET_REMINDER
+remind me attend at 3 am,SET_REMINDER
+can you remind me attend at 3 am,SET_REMINDER
+remember appointment at 2 pm,SET_REMINDER
+can you remind me meeting with 5 pm,SET_REMINDER
+can you reminder meeting at 5 pm,SET_REMINDER
+remember attend at 3 am,SET_REMINDER
+can you remember meeting at 5 pm,SET_REMINDER
+remember attend with 3 am,SET_REMINDER
+please reminder attend with 3 am,SET_REMINDER
+remember appointment with 2 pm,SET_REMINDER
+remind me attend with 3 am,SET_REMINDER
+I have an meetup with 2 pm,SET_REMINDER
+please I have an meeting with 2 pm,SET_REMINDER
+can you remember attend with 3 am,SET_REMINDER
+can you remember meeting at 3 am,SET_REMINDER
+please remind me meeting with 2 pm,SET_REMINDER
+can you reminder appointment with 5 pm,SET_REMINDER
+can you I need to meetup with 5 pm,SET_REMINDER
+remind me ceremony at 2 pm,SET_REMINDER
+please remind me meetup at 3 am,SET_REMINDER
+please I have an meeting at 3 am,SET_REMINDER
+can you I have an meetup at 3 am,SET_REMINDER
+can you reminder appointment with 2 pm,SET_REMINDER
+remind me attend with 5 pm,SET_REMINDER
+I need to meetup at 3 am,SET_REMINDER
+please remember appointment at 5 pm,SET_REMINDER
+please remind me meeting with 3 am,SET_REMINDER
+please I have an attend at 2 pm,SET_REMINDER
+please remind me ceremony with 3 am,SET_REMINDER
+remind me ceremony at 5 pm,SET_REMINDER
+can you remind me appointment at 3 am,SET_REMINDER
+please I have an attend with 2 pm,SET_REMINDER
+can you I need to attend with 3 am,SET_REMINDER
+please reminder appointment with 5 pm,SET_REMINDER
+please remember ceremony with 2 pm,SET_REMINDER
+can you remind me meeting at 2 pm,SET_REMINDER
+please remember meeting at 5 pm,SET_REMINDER
+can you remember appointment with 3 am,SET_REMINDER
+please I need to appointment at 2 pm,SET_REMINDER
+can you remember attend with 5 pm,SET_REMINDER
+I have an appointment at 5 pm,SET_REMINDER
+please remember meeting with 5 pm,SET_REMINDER
+please I have an attend at 5 pm,SET_REMINDER
+please remind me appointment with 3 am,SET_REMINDER

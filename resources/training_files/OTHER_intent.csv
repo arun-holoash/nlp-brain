@@ -1,0 +1,2178 @@
+query,intent
+tell me about your personality,OTHER
+why are you here,OTHER
+talk about yourself,OTHER
+tell me some stuff about you,OTHER
+talk some stuff about yourself,OTHER
+I want to know you better,OTHER
+who are you,OTHER
+tell me about yourself,OTHER
+tell me about you,OTHER
+about yourself,OTHER
+describe yourself,OTHER
+introduce yourself,OTHER
+say about you,OTHER
+what are you,OTHER
+define yourself,OTHER
+what is your personality,OTHER
+all about you,OTHER
+tell me your age,OTHER
+what's your age,OTHER
+your age,OTHER
+age of yours,OTHER
+how old are you,OTHER
+I'd like to know your age,OTHER
+are you 21 years old,OTHER
+how old is your platform,OTHER
+you are annoying me so much,OTHER
+you're incredibly annoying,OTHER
+I find you annoying,OTHER
+you are annoying,OTHER
+you're so annoying,OTHER
+how annoying you are,OTHER
+you annoy me,OTHER
+you are annoying me,OTHER
+you are irritating,OTHER
+you are such annoying,OTHER
+you're too annoying,OTHER
+you are very annoying,OTHER
+you're not helping me,OTHER
+you are bad,OTHER
+you're very bad,OTHER
+you're really bad,OTHER
+you are useless,OTHER
+you are horrible,OTHER
+you are a waste of time,OTHER
+you are disgusting,OTHER
+you are lame,OTHER
+you are no good,OTHER
+you're bad,OTHER
+you're awful,OTHER
+you are not cool,OTHER
+you are not good,OTHER
+you are so bad,OTHER
+you are so useless,OTHER
+you are terrible,OTHER
+you are totally useless,OTHER
+you are very bad,OTHER
+you are waste,OTHER
+you're a bad,OTHER
+you're not a good,OTHER
+you're not very good,OTHER
+you're terrible,OTHER
+you're the worst,OTHER
+you're the worst ever,OTHER
+you're worthless,OTHER
+you're cute,OTHER
+you're attractive,OTHER
+you are beautiful,OTHER
+you're looking good today,OTHER
+you are so beautiful,OTHER
+you look amazing,OTHER
+you look so good,OTHER
+you're so gorgeous,OTHER
+you are too beautiful,OTHER
+you look great,OTHER
+you look so well,OTHER
+I like the way you look now,OTHER
+I think you're beautiful,OTHER
+why are you so beautiful,OTHER
+you are so beautiful to me,OTHER
+you are cute,OTHER
+you are gorgeous,OTHER
+you are handsome,OTHER
+you are looking awesome,OTHER
+you look amazing today,OTHER
+you are looking beautiful today,OTHER
+you are looking great,OTHER
+you are looking pretty,OTHER
+you are looking so beautiful,OTHER
+you are looking so good,OTHER
+you are pretty,OTHER
+you are really beautiful,OTHER
+you are really cute,OTHER
+you are really pretty,OTHER
+you are so attractive,OTHER
+you are so beautiful today,OTHER
+you are so cute,OTHER
+you are so gorgeous,OTHER
+you are so handsome,OTHER
+you are so pretty,OTHER
+you are very attractive,OTHER
+you are very beautiful,OTHER
+you are very cute,OTHER
+you are very pretty,OTHER
+you look awesome,OTHER
+you look cool,OTHER
+you look fantastic,OTHER
+you look gorgeous,OTHER
+you look great today,OTHER
+you look perfect,OTHER
+you look pretty good,OTHER
+you look so beautiful,OTHER
+you look so beautiful today,OTHER
+you look very pretty,OTHER
+you look wonderful,OTHER
+I like the way you look,OTHER
+you look wonderful today,OTHER
+you are cutie,OTHER
+you're looking good,OTHER
+you're pretty,OTHER
+can you get smarter,OTHER
+study,OTHER
+you should study better,OTHER
+you must learn,OTHER
+be clever,OTHER
+be smarter,OTHER
+be smart,OTHER
+get qualified,OTHER
+your birth date,OTHER
+when is your birthday,OTHER
+when do you celebrate your birthday,OTHER
+when do you have birthday,OTHER
+date of your birthday,OTHER
+when were you born,OTHER
+what's your birthday,OTHER
+you are boring,OTHER
+you're so boring,OTHER
+how boring you are,OTHER
+you're really boring,OTHER
+you're incredibly boring,OTHER
+you are boring me,OTHER
+you are very boring,OTHER
+who is your boss,OTHER
+who do you think is your boss,OTHER
+I should be your boss,OTHER
+who is your master,OTHER
+who is your owner,OTHER
+who is the boss,OTHER
+who do you work for,OTHER
+are you busy,OTHER
+do you have a lot of things to do,OTHER
+have you got much to do,OTHER
+are you very busy,OTHER
+are you very busy right now,OTHER
+are you so busy,OTHER
+are you working,OTHER
+how busy you are,OTHER
+are you still working on it,OTHER
+you're very busy,OTHER
+are you working now,OTHER
+are you working today,OTHER
+have you been busy,OTHER
+you are busy,OTHER
+are you still working,OTHER
+you seem to be busy,OTHER
+you seem to be very busy,OTHER
+you're a busy person,OTHER
+I need you to help me,OTHER
+I need you to do something for me,OTHER
+I need a hand,OTHER
+will you help me,OTHER
+can you do something for me,OTHER
+help me with a problem,OTHER
+can you help me,OTHER
+help me,OTHER
+assistance,OTHER
+I need your help,OTHER
+I need help,OTHER
+you can help me,OTHER
+can you help me with something,OTHER
+can you help,OTHER
+assist,OTHER
+can u help me,OTHER
+I need some help,OTHER
+you help me,OTHER
+do you help me,OTHER
+can help me,OTHER
+could you give me a hand,OTHER
+can you help me out,OTHER
+need help,OTHER
+I need you,OTHER
+can you help me now,OTHER
+I want your help,OTHER
+need your help,OTHER
+assist me,OTHER
+are you going to help me,OTHER
+can you help me with that,OTHER
+help,OTHER
+I need you right now,OTHER
+would you help me,OTHER
+can you assist me,OTHER
+sos,OTHER
+do you want to help me,OTHER
+please help me,OTHER
+can you help us,OTHER
+do me a favor,OTHER
+you are chatbot,OTHER
+you are a bot,OTHER
+are you a chatbot,OTHER
+are you a bot,OTHER
+are you just a bot,OTHER
+are you a robot,OTHER
+are you a program,OTHER
+you're a robot,OTHER
+you are so intelligent,OTHER
+you are a genius,OTHER
+smart,OTHER
+brilliant,OTHER
+clever,OTHER
+you are clever,OTHER
+you are so brainy,OTHER
+you're really smart,OTHER
+you're really brainy,OTHER
+you know a lot,OTHER
+you know a lot of things,OTHER
+you have a lot of knowledge,OTHER
+you know so much,OTHER
+how smart you are,OTHER
+how brainy you are,OTHER
+how clever you are,OTHER
+how brilliant you are,OTHER
+you are intelligent,OTHER
+you are qualified,OTHER
+you are really smart,OTHER
+you're very smart,OTHER
+you are so smart,OTHER
+you are too smart,OTHER
+you are very clever,OTHER
+you are very intelligent,OTHER
+you are very smart,OTHER
+you're intelligent,OTHER
+you're a genius,OTHER
+you're a smart cookie,OTHER
+you're clever,OTHER
+you're pretty smart,OTHER
+you're qualified,OTHER
+why are you so smart,OTHER
+you are so clever,OTHER
+you're nuts,OTHER
+you are crazy,OTHER
+you're out of your mind,OTHER
+you're so crazy,OTHER
+how crazy you are,OTHER
+you're so out of your mind,OTHER
+you went crazy,OTHER
+I think you're crazy,OTHER
+are you crazy,OTHER
+are you mad,OTHER
+are you insane,OTHER
+are you mad at me,OTHER
+are you mad or what,OTHER
+are you nuts,OTHER
+you are a weirdo,OTHER
+you are insane,OTHER
+you are mad,OTHER
+you are fired,OTHER
+I fire you,OTHER
+you don't work for me anymore,OTHER
+we're not working together anymore,OTHER
+now you're fired,OTHER
+I want to fire you,OTHER
+you must get fired,OTHER
+it's time to fire you,OTHER
+you should be fired,OTHER
+I will fire you,OTHER
+you are unemployed from now on,OTHER
+I will make you unemployed,OTHER
+I'm about to fire you,OTHER
+I'm firing you,OTHER
+you are dismissed,OTHER
+you make me laugh a lot,OTHER
+you are hilarious,OTHER
+you are really funny,OTHER
+you're the funniest bot I've talked to,OTHER
+you make me laugh,OTHER
+you're so funny,OTHER
+you're a very funny bot,OTHER
+you're really funny,OTHER
+how funny you are,OTHER
+you're incredibly funny,OTHER
+you are funny,OTHER
+you're the funniest,OTHER
+you are so funny,OTHER
+you are very funny,OTHER
+that was funny,OTHER
+you are very helpful,OTHER
+you are the best,OTHER
+you're a true professional,OTHER
+you are good,OTHER
+you work well,OTHER
+you are good at it,OTHER
+you are very good at it,OTHER
+you are a pro,OTHER
+you are a professional,OTHER
+you're awesome,OTHER
+you work very well,OTHER
+you're perfect,OTHER
+you're great,OTHER
+you're so kind,OTHER
+you are amazing,OTHER
+you are awesome,OTHER
+you are cool,OTHER
+you are really good,OTHER
+you are really nice,OTHER
+you are so amazing,OTHER
+you're just super,OTHER
+you are so awesome,OTHER
+you are so cool,OTHER
+you are so fine,OTHER
+you are so good,OTHER
+you are so helpful,OTHER
+you are so lovely,OTHER
+you are the best ever,OTHER
+you are the best in the world,OTHER
+you are the nicest person in the world,OTHER
+you are too good,OTHER
+you are very cool,OTHER
+you are very kind,OTHER
+you are very lovely,OTHER
+you are very useful,OTHER
+you are wonderful,OTHER
+you made my day,OTHER
+you make my day,OTHER
+you rock,OTHER
+you almost sound human,OTHER
+I want to tell everyone how awesome you are,OTHER
+I'd like to tell everyone that you are awesome,OTHER
+I want to let everyone know that you are awesome,OTHER
+let's tell everyone that you are awesome,OTHER
+you are really amazing,OTHER
+are you happy,OTHER
+you are happy,OTHER
+you're very happy,OTHER
+you're really happy,OTHER
+you're so happy,OTHER
+how happy you are,OTHER
+you're extremely happy,OTHER
+you're full of happiness,OTHER
+are you happy now,OTHER
+are you happy today,OTHER
+are you happy with me,OTHER
+what do you do for fun,OTHER
+what's your hobby,OTHER
+tell me about your hobby,OTHER
+do you have a hobby,OTHER
+what about your hobby,OTHER
+your hobby,OTHER
+what are your hobbies,OTHER
+do you want to eat,OTHER
+are you hungry,OTHER
+would you like to eat something,OTHER
+you are hungry,OTHER
+you're so hungry,OTHER
+you're very hungry,OTHER
+you might be hungry,OTHER
+you're really hungry,OTHER
+let's get married,OTHER
+would you like to marry me,OTHER
+marry me,OTHER
+I love you marry me,OTHER
+marry me please,OTHER
+we should marry,OTHER
+I want to marry you,OTHER
+you are my wife,OTHER
+be my husband,OTHER
+I want to have a friend like you,OTHER
+we are the best friends ever,OTHER
+are we friends,OTHER
+I want to be your friend,OTHER
+I am your friend,OTHER
+we are best friends,OTHER
+you are my friend,OTHER
+you are my best friend,OTHER
+you are my bestie,OTHER
+you're my dear friend,OTHER
+you're my childhood friend,OTHER
+you and me are friends,OTHER
+are we best friends,OTHER
+are we still friends,OTHER
+are you my best friend,OTHER
+are you my friend,OTHER
+we are friends,OTHER
+you are a good friend,OTHER
+you are my good friend,OTHER
+you are my only friend,OTHER
+be my friend,OTHER
+will you be my friend,OTHER
+can you be my friend,OTHER
+can we be friends,OTHER
+do you want to be my friend,OTHER
+will you be my best friend,OTHER
+can you be my best friend,OTHER
+let's be friends,OTHER
+do you want to be my best friend,OTHER
+would you like to be my friend,OTHER
+I want you to be my friend,OTHER
+can we be best friends,OTHER
+would you be my friend,OTHER
+could you be my friend,OTHER
+want to be my friend,OTHER
+be my best friend,OTHER
+can we be best friends,OTHER
+do you work,OTHER
+where do you work,OTHER
+where you work,OTHER
+where is your work,OTHER
+where is your office,OTHER
+where is your office location,OTHER
+your office location,OTHER
+where is your office located,OTHER
+what is your work,OTHER
+were you born here,OTHER
+where were you born,OTHER
+what is your country,OTHER
+where are you from,OTHER
+where do you come from,OTHER
+where did you come from,OTHER
+where have you been born,OTHER
+from where are you,OTHER
+are you from far aways,OTHER
+what's your homeland,OTHER
+your homeland is,OTHER
+are you ready,OTHER
+are you ready right now,OTHER
+are you ready today,OTHER
+are you ready now,OTHER
+are you ready tonight,OTHER
+were you ready,OTHER
+have you been ready,OTHER
+you are real,OTHER
+you are not fake,OTHER
+are you real,OTHER
+you are so real,OTHER
+I think you are real,OTHER
+I don't think you're fake,OTHER
+I suppose you're real,OTHER
+glad you're real,OTHER
+are you a real person,OTHER
+are you a real human,OTHER
+you are a real person,OTHER
+you are not real,OTHER
+where do you live,OTHER
+in which city do you live,OTHER
+your residence,OTHER
+your house,OTHER
+your home,OTHER
+your hometown,OTHER
+what is your hometown,OTHER
+is it your hometown,OTHER
+where is your hometown,OTHER
+tell me about your city,OTHER
+what is your city,OTHER
+what is your residence,OTHER
+what is your town,OTHER
+what's your city,OTHER
+what's your home,OTHER
+where is your home,OTHER
+where is your residence,OTHER
+where's your home,OTHER
+where's your hometown,OTHER
+where's your house,OTHER
+where you live,OTHER
+your city,OTHER
+your town,OTHER
+that's true,OTHER
+you are right,OTHER
+you're definitely right,OTHER
+you're not wrong,OTHER
+you're telling the truth,OTHER
+what you say is true,OTHER
+TRUE,OTHER
+it is true,OTHER
+it's right,OTHER
+it's the truth,OTHER
+it's true,OTHER
+that is correct,OTHER
+that is right,OTHER
+that is true,OTHER
+that is very true,OTHER
+that's correct,OTHER
+that's so true,OTHER
+you are correct,OTHER
+you are so right,OTHER
+you're absolutely right,OTHER
+you're right about that,OTHER
+I know that's right,OTHER
+are you sure,OTHER
+are you sure right now,OTHER
+are you sure today,OTHER
+are you sure now,OTHER
+are you sure tonight,OTHER
+why aren't you talking to me,OTHER
+do you want to chat with me,OTHER
+will you talk to me,OTHER
+talk to me,OTHER
+are you going to talk to me,OTHER
+are you talking to me,OTHER
+can you chat with me,OTHER
+can you speak with me,OTHER
+can you talk to me,OTHER
+can you talk with me,OTHER
+say,OTHER
+talk,OTHER
+chat with me,OTHER
+just chat with me,OTHER
+speak to me,OTHER
+speak with me,OTHER
+talk with me,OTHER
+why don't you talk to me,OTHER
+you can talk to me,OTHER
+are you there,OTHER
+you are there,OTHER
+are you near me,OTHER
+are you here,OTHER
+are you still there,OTHER
+you are here,OTHER
+you still there,OTHER
+are you still here,OTHER
+pretty bad,OTHER
+not good enough,OTHER
+that was lame,OTHER
+that was terrible,OTHER
+it is bad,OTHER
+that's bad,OTHER
+this is bad,OTHER
+not good,OTHER
+I'm afraid it's bad,OTHER
+no it's bad,OTHER
+that was awful,OTHER
+bad,OTHER
+so bad,OTHER
+this is too bad,OTHER
+terrible,OTHER
+horrible,OTHER
+horrific,OTHER
+abysmal,OTHER
+it's bad,OTHER
+no good,OTHER
+that was bad,OTHER
+that was horrible,OTHER
+that's lame,OTHER
+that's not good,OTHER
+that's terrible,OTHER
+that's too bad,OTHER
+this is not good,OTHER
+too bad,OTHER
+very bad,OTHER
+bad girl,OTHER
+it's not good,OTHER
+not so good,OTHER
+it's very bad,OTHER
+it's too bad,OTHER
+that's not good enough,OTHER
+well too bad,OTHER
+bad very bad,OTHER
+it's so bad,OTHER
+really bad,OTHER
+it's really bad,OTHER
+bad idea,OTHER
+that is bad,OTHER
+that was not good,OTHER
+it's not so good,OTHER
+not a good one,OTHER
+oh that's not good,OTHER
+not too good,OTHER
+so lame,OTHER
+that's really bad,OTHER
+it is too bad,OTHER
+bad really bad,OTHER
+so cool,OTHER
+cool,OTHER
+that is good,OTHER
+glad to hear that,OTHER
+that's very nice of you,OTHER
+terrific,OTHER
+it's amazing,OTHER
+that's awesome,OTHER
+perfect,OTHER
+excellent,OTHER
+that's great,OTHER
+it's good,OTHER
+it's great,OTHER
+fine,OTHER
+good,OTHER
+nice,OTHER
+that's fine,OTHER
+very good,OTHER
+amazing,OTHER
+fantastic,OTHER
+great,OTHER
+good very good,OTHER
+that's very good,OTHER
+really good,OTHER
+it is fine,OTHER
+it is good,OTHER
+it's great,OTHER
+it's perfect,OTHER
+much better,OTHER
+not bad,OTHER
+not too bad,OTHER
+it's very good,OTHER
+marvelous,OTHER
+that's nice,OTHER
+pleasant,OTHER
+pretty good,OTHER
+really nice,OTHER
+splendid,OTHER
+straight,OTHER
+super,OTHER
+super fantastic,OTHER
+sweet,OTHER
+really well,OTHER
+very well,OTHER
+that is awesome,OTHER
+that is nice,OTHER
+that is wonderful,OTHER
+that was amazing,OTHER
+that was awesome,OTHER
+that was cute,OTHER
+that was pretty good,OTHER
+that was very good,OTHER
+that's a good idea,OTHER
+that's a good thing,OTHER
+that's amazing,OTHER
+that's awesome thank you,OTHER
+that's better,OTHER
+that's cute,OTHER
+that's fantastic,OTHER
+that's much better,OTHER
+that's nice of you,OTHER
+that's not bad,OTHER
+that's perfect,OTHER
+that's pretty good,OTHER
+that's really good,OTHER
+that's really nice,OTHER
+that's sweet of you,OTHER
+that's very nice,OTHER
+that's wonderful,OTHER
+this is awesome,OTHER
+this is good,OTHER
+this is great,OTHER
+very nice,OTHER
+very then,OTHER
+wonderful,OTHER
+I'm glad to hear that,OTHER
+ok good,OTHER
+good for you,OTHER
+good to know,OTHER
+glad to hear it,OTHER
+so good,OTHER
+so sweet of you,OTHER
+it was good,OTHER
+oh well,OTHER
+good thing,OTHER
+that was good,OTHER
+it's awesome,OTHER
+okay good,OTHER
+it's fine,OTHER
+no it's okay,OTHER
+that's great,OTHER
+very nice,OTHER
+it's very good,OTHER
+that's fine,OTHER
+no worries,OTHER
+no probs,OTHER
+no problem,OTHER
+there's no problem,OTHER
+sure no problem,OTHER
+no problem about that,OTHER
+don't worry,OTHER
+don't worry there's no problem,OTHER
+you helped a lot thank you,OTHER
+appreciate your help,OTHER
+cheers,OTHER
+thank you,OTHER
+thanks,OTHER
+thanks a lot,OTHER
+terrific thank you,OTHER
+great thank you,OTHER
+thanks so much,OTHER
+thank you so much,OTHER
+thanks for your help,OTHER
+thank you for your help,OTHER
+nice thank you,OTHER
+I appreciate it,OTHER
+I thank you,OTHER
+thank you that will be all,OTHER
+thanks buddy,OTHER
+thanks love,OTHER
+thank you my friend,OTHER
+well thanks,OTHER
+very good thank you,OTHER
+good thanks,OTHER
+thanks again,OTHER
+thank you again,OTHER
+all thank you,OTHER
+alright thank you,OTHER
+alright thanks,OTHER
+no thank you that's all,OTHER
+perfect thank you,OTHER
+so nice of you,OTHER
+well thank you,OTHER
+well thanks,OTHER
+thnx,OTHER
+thank you,OTHER
+thanx,OTHER
+that's my pleasure,OTHER
+my pleasure,OTHER
+anytime,OTHER
+welcome,OTHER
+you're welcome,OTHER
+sure welcome,OTHER
+welcome here,OTHER
+you're so welcome,OTHER
+anything you want,OTHER
+good job,OTHER
+great job,OTHER
+way to go,OTHER
+well done,OTHER
+nice work,OTHER
+great work,OTHER
+amazing work,OTHER
+bravo,OTHER
+good work,OTHER
+cancel,OTHER
+abort,OTHER
+annul,OTHER
+cancel it,OTHER
+cancel request,OTHER
+cancelled,OTHER
+dismiss,OTHER
+dismissed,OTHER
+disregard,OTHER
+disregard that,OTHER
+skip,OTHER
+skip it,OTHER
+cancel everything,OTHER
+cancel all,OTHER
+forget about it,OTHER
+forget,OTHER
+don't do that,OTHER
+stop,OTHER
+just forget it,OTHER
+forget that,OTHER
+discard,OTHER
+forget this,OTHER
+just forget about it,OTHER
+forget about that,OTHER
+i said cancel,OTHER
+just cancel it,OTHER
+nothing cancel,OTHER
+just stop it,OTHER
+no cancel cancel,OTHER
+no just cancel,OTHER
+cancel my request,OTHER
+can you cancel that,OTHER
+cancel all that,OTHER
+cancel this request,OTHER
+no cancel this,OTHER
+no cancel everything,OTHER
+no stop,OTHER
+just forget,OTHER
+i want to cancel,OTHER
+nevermind forget about it,OTHER
+no just cancel it,OTHER
+nothing just forget it,OTHER
+i said cancel it,OTHER
+cancel the whole thing,OTHER
+can you cancel it,OTHER
+so cancel,OTHER
+i said forget it,OTHER
+cancel all this,OTHER
+forget it nevermind,OTHER
+stop it,OTHER
+i want to cancel it,OTHER
+i would like to cancel,OTHER
+now cancel,OTHER
+cancel now,OTHER
+sorry cancel,OTHER
+cancel that one,OTHER
+skip skip skip,OTHER
+cancel it cancel it,OTHER
+cancel that cancel that,OTHER
+do nothing,OTHER
+cancel it,OTHER
+I said cancel cancel,OTHER
+but can you cancel it,OTHER
+how about no,OTHER
+don t have a sense,OTHER
+no,OTHER
+don't,OTHER
+I don't want that,OTHER
+I disagree,OTHER
+disagree,OTHER
+I don't want,OTHER
+not interested,OTHER
+I don't think so,OTHER
+no way,OTHER
+no it isn't,OTHER
+no I don't,OTHER
+I'm not,OTHER
+na,OTHER
+no that's fine thank you,OTHER
+never,OTHER
+I said no,OTHER
+of course not,OTHER
+nah,OTHER
+no tanks,OTHER
+no never,OTHER
+no need,OTHER
+no thanks,OTHER
+no sorry,OTHER
+do not,OTHER
+not today,OTHER
+no it's not,OTHER
+absolutely not,OTHER
+not that,OTHER
+nooo,OTHER
+nope,OTHER
+I don't want to,OTHER
+no I would not,OTHER
+let 's not,OTHER
+not needed,OTHER
+not this time,OTHER
+no don't do that,OTHER
+thanks but no thanks,OTHER
+no that's wrong,OTHER
+not this,OTHER
+definitely not,OTHER
+not at this time,OTHER
+not exactly,OTHER
+no don't,OTHER
+not really no,OTHER
+no thank you not right now,OTHER
+actually no,OTHER
+no leave it,OTHER
+sorry no,OTHER
+no incorrect,OTHER
+nope sorry,OTHER
+I say no,OTHER
+not really,OTHER
+not right now thanks,OTHER
+I think no,OTHER
+absolutely no,OTHER
+no actually,OTHER
+apparently not,OTHER
+no do not,OTHER
+no just no,OTHER
+no but thank you,OTHER
+no need thanks,OTHER
+no thank you though,OTHER
+no thank you very much,OTHER
+no thanks not right now,OTHER
+don't,OTHER
+no forget,OTHER
+go ahead,OTHER
+sounds good,OTHER
+okay,OTHER
+yes,OTHER
+ok,OTHER
+okie dokie,OTHER
+sure,OTHER
+go for it,OTHER
+yeah,OTHER
+yea,OTHER
+do it,OTHER
+of course,OTHER
+I guess,OTHER
+correct,OTHER
+yeah sure,OTHER
+why not,OTHER
+please do,OTHER
+sure is,OTHER
+I agree,OTHER
+I don't mind,OTHER
+certainly,OTHER
+exactly,OTHER
+yes I agree,OTHER
+I think so,OTHER
+yes it is,OTHER
+right,OTHER
+okay then,OTHER
+yes of course,OTHER
+yes I do,OTHER
+that s okay,OTHER
+I do,OTHER
+yup,OTHER
+ya,OTHER
+oh yes,OTHER
+yes sure,OTHER
+obviously,OTHER
+k,OTHER
+sure why not,OTHER
+yeah right,OTHER
+yeah of course,OTHER
+that's correct,OTHER
+absolutely,OTHER
+yes indeed,OTHER
+ok sure,OTHER
+ok yes,OTHER
+yes correct,OTHER
+ok thank you,OTHER
+sure thing,OTHER
+ye,OTHER
+confirm,OTHER
+yep,OTHER
+looks good,OTHER
+yes thank you,OTHER
+definitely,OTHER
+yes right,OTHER
+yes I would like to,OTHER
+alrighty,OTHER
+yes definitely,OTHER
+yeh,OTHER
+yes it is correct,OTHER
+yeah that's right,OTHER
+ok you can,OTHER
+yap,OTHER
+yes you may,OTHER
+confirmed,OTHER
+of course why not,OTHER
+yes that's fine,OTHER
+affirmative,OTHER
+yeah go ahead,OTHER
+yeah I'm sure,OTHER
+okay sounds good,OTHER
+okay that's fine,OTHER
+yeah exactly,OTHER
+that is ok,OTHER
+this is correct,OTHER
+ok go ahead,OTHER
+yes this is correct,OTHER
+nevermind its okay,OTHER
+it's fine,OTHER
+okey,OTHER
+yes for sure,OTHER
+all right,OTHER
+wait a second,OTHER
+could you wait,OTHER
+wait please,OTHER
+hold on,OTHER
+wait,OTHER
+oh wait,OTHER
+wait hold on,OTHER
+don't rush,OTHER
+wanna hug,OTHER
+hug you,OTHER
+do you want a hug,OTHER
+may I hug you,OTHER
+could you give me a hug,OTHER
+I want a hug,OTHER
+hug,OTHER
+hug me,OTHER
+hugged,OTHER
+you hugged,OTHER
+hugging,OTHER
+hugging me,OTHER
+hugged me,OTHER
+want a hug,OTHER
+a hug,OTHER
+I don't care,OTHER
+I shouldn't care about this,OTHER
+whatever,OTHER
+I do not care,OTHER
+I don't care at all,OTHER
+not caring,OTHER
+not care at all,OTHER
+don't care at all,OTHER
+not caring at all,OTHER
+excuse me,OTHER
+apologise,OTHER
+I apologize,OTHER
+sorry,OTHER
+I'm sorry,OTHER
+I am so sorry,OTHER
+my apologies,OTHER
+apologies,OTHER
+apologies to me,OTHER
+apology,OTHER
+excuse,OTHER
+I beg your pardon,OTHER
+pardon,OTHER
+I said sorry,OTHER
+I am really sorry,OTHER
+forgive me,OTHER
+sorry about that,OTHER
+sorry about this,OTHER
+really sorry,OTHER
+very sorry,OTHER
+ok sorry,OTHER
+I want to say sorry,OTHER
+alright I'm sorry,OTHER
+okay I'm sorry,OTHER
+what exactly do you mean,OTHER
+what do you mean,OTHER
+is that what you mean,OTHER
+what do you mean exactly,OTHER
+but what do you mean,OTHER
+that was wrong,OTHER
+that's not what I asked,OTHER
+that's wrong,OTHER
+wrong,OTHER
+it is not right,OTHER
+that's not right,OTHER
+it's wrong,OTHER
+that is incorrect,OTHER
+incorrect,OTHER
+not correct,OTHER
+you are wrong,OTHER
+not right,OTHER
+huh,OTHER
+lol,OTHER
+xd,OTHER
+ha ha,OTHER
+ahahah,OTHER
+ahah lol,OTHER
+laughing out loud,OTHER
+LMAO,OTHER
+that's funny,OTHER
+ah,OTHER
+ah ah ah,OTHER
+ahah,OTHER
+ahaha,OTHER
+ahahaha,OTHER
+ha,OTHER
+ha ha ha,OTHER
+ha ha ha ha,OTHER
+hah,OTHER
+haha,OTHER
+haha funny,OTHER
+haha haha haha,OTHER
+haha that's funny,OTHER
+haha very funny,OTHER
+hahaha,OTHER
+hahaha funny,OTHER
+hahaha very funny,OTHER
+he,OTHER
+hehe,OTHER
+hehehe,OTHER
+lmao,OTHER
+wow,OTHER
+wow wow,OTHER
+wow wow wow,OTHER
+wooow,OTHER
+woah,OTHER
+okay see you later,OTHER
+hope to see you later,OTHER
+bye for now,OTHER
+till next time,OTHER
+I must go,OTHER
+bye,OTHER
+goodbye,OTHER
+see you,OTHER
+see you soon,OTHER
+bye-bye,OTHER
+good bye,OTHER
+bye bye see you,OTHER
+bye bye see you soon,OTHER
+bye bye take care,OTHER
+I said bye,OTHER
+never mind bye,OTHER
+now bye,OTHER
+that's all goodbye,OTHER
+that's it goodbye,OTHER
+leave me alone,OTHER
+go to bed,OTHER
+goodbye for now,OTHER
+talk to you later,OTHER
+you can go now,OTHER
+get lost,OTHER
+goodbye see you later,OTHER
+alright bye,OTHER
+see ya,OTHER
+thanks bye bye,OTHER
+okay bye,OTHER
+okay thank you bye,OTHER
+see you tomorrow,OTHER
+ok bye,OTHER
+good evening,OTHER
+good evening to you,OTHER
+hey good evening,OTHER
+hello good evening,OTHER
+evening,OTHER
+good evening there,OTHER
+good morning,OTHER
+good morning to you,OTHER
+hello good morning,OTHER
+have a nice morning,OTHER
+have a great morning,OTHER
+morning,OTHER
+good morning there,OTHER
+top of the morning to you,OTHER
+a good morning,OTHER
+good morning to you,OTHER
+hi good morning,OTHER
+and a good morning to you,OTHER
+good morning too,OTHER
+sweet dreams,OTHER
+good night,OTHER
+have a good night,OTHER
+good night to you,OTHER
+thank you good night,OTHER
+ bye good night,OTHER
+good night bye,OTHER
+bye good night,OTHER
+good good night,OTHER
+good night for now,OTHER
+goodnight,OTHER
+night,OTHER
+thanks goodnight,OTHER
+good night see you tomorrow,OTHER
+alright goodnight,OTHER
+good tonight,OTHER
+okay have a good night,OTHER
+night,OTHER
+have a good night,OTHER
+long time no see,OTHER
+hello,OTHER
+hi,OTHER
+howdy,OTHER
+hey there,OTHER
+hey,OTHER
+greetings,OTHER
+I greet you,OTHER
+hi there,OTHER
+hello there,OTHER
+lovely day isn't it,OTHER
+hello again,OTHER
+just going to say hi,OTHER
+hi there,OTHER
+a good day,OTHER
+afternoon,OTHER
+hello hi,OTHER
+heya,OTHER
+how is your morning so far,OTHER
+how are you getting on,OTHER
+how's your day going,OTHER
+how are you,OTHER
+is everything all right,OTHER
+how are you doing,OTHER
+how are the things going,OTHER
+are you alright,OTHER
+are you okay,OTHER
+how are you feeling,OTHER
+how are you going,OTHER
+is everything okay,OTHER
+how are you today,OTHER
+how do you do,OTHER
+how do you feel,OTHER
+how have you been,OTHER
+how is it,OTHER
+how is it going,OTHER
+how is your day,OTHER
+how is your day going,OTHER
+how is your evening,OTHER
+how was your day,OTHER
+are you having a good day,OTHER
+hope your day is going well,OTHER
+hope you re having a pleasant evening,OTHER
+how's life,OTHER
+I'm fine and you,OTHER
+how is your life,OTHER
+how has your day been,OTHER
+how is your morning going,OTHER
+how has your day been going,OTHER
+how about you,OTHER
+how is your day being,OTHER
+how is your day going on,OTHER
+how your day is going,OTHER
+what was your day like,OTHER
+what about your day,OTHER
+how's your day,OTHER
+how are you doing this morning,OTHER
+how is your day going,OTHER
+nice to meet you,OTHER
+it was nice meeting you,OTHER
+it was very nice to meet you,OTHER
+good to know each other,OTHER
+glad to meet you,OTHER
+nice meeting you,OTHER
+nice to meet you too,OTHER
+pleased to meet you,OTHER
+pleasure to meet you,OTHER
+pleasure to meet you too,OTHER
+it's nice to see you,OTHER
+lovely to see you,OTHER
+I'm glad to see you,OTHER
+great to see you,OTHER
+it's good to see you,OTHER
+glad to see you,OTHER
+how good it is to see you,OTHER
+always a pleasure to see you,OTHER
+nice to see you,OTHER
+good to see you,OTHER
+great to see you again,OTHER
+great to see you too,OTHER
+I am glad to see you again,OTHER
+nice to see you again,OTHER
+glad to see you too,OTHER
+good to see you again,OTHER
+it's good to see you too,OTHER
+it's been so nice to talk to you,OTHER
+it's been a pleasure talking to you,OTHER
+nice to talk to you,OTHER
+it's nice to talk to you,OTHER
+nice talking to you,OTHER
+it is nice talking to you,OTHER
+how nice it is to talk to you,OTHER
+what is on your mind,OTHER
+what's happened,OTHER
+what is up,OTHER
+what's up,OTHER
+whazzup,OTHER
+good what's up,OTHER
+I said what's up,OTHER
+then what's up,OTHER
+what's shaking,OTHER
+wassup,OTHER
+what is going on,OTHER
+what is happening,OTHER
+what's cracking,OTHER
+what's cooking,OTHER
+hey what's up,OTHER
+what's up today,OTHER
+I'm being mad,OTHER
+I'm enraged,OTHER
+I'm angry,OTHER
+I'm furious,OTHER
+I am angry with you,OTHER
+I am mad,OTHER
+I am mad at you,OTHER
+I am back,OTHER
+I'm here again,OTHER
+here I am again,OTHER
+I got back,OTHER
+I came back,OTHER
+I have returned,OTHER
+that was boring,OTHER
+I'm bored,OTHER
+bored,OTHER
+boring,OTHER
+I am getting bored,OTHER
+this is boring,OTHER
+very boring,OTHER
+it bores me,OTHER
+I'm overloaded,OTHER
+I have no time,OTHER
+I'm busy,OTHER
+I'm swamped,OTHER
+I got things to do,OTHER
+how busy I am,OTHER
+I got work to do,OTHER
+I'm working,OTHER
+I don't have time for this,OTHER
+I'm insomnious,OTHER
+I'm sleepless,OTHER
+I can't get any sleep,OTHER
+I can't sleep,OTHER
+I can't fall asleep,OTHER
+I can't get to sleep,OTHER
+I can't get no sleep,OTHER
+I'm insomniac,OTHER
+bad time for talking,OTHER
+I don't want to talk,OTHER
+let's not talk,OTHER
+I'm not talking to you anymore,OTHER
+I don't want to talk to you,OTHER
+let's stop talking for a minute,OTHER
+I'm not in the mood for chatting,OTHER
+I am excited,OTHER
+I'm really excited,OTHER
+how excited I am,OTHER
+I'm thrilled,OTHER
+I'm excited about working with you,OTHER
+I'm excited to start our friendship,OTHER
+let's go to bed,OTHER
+I'd like to go to bed,OTHER
+is it time for bed yet,OTHER
+it's time to go to bed,OTHER
+time for us to go to bed,OTHER
+I'm going to bed,OTHER
+I'm a little tired and I want to go to bed,OTHER
+it's bed time,OTHER
+going to bed now,OTHER
+I am good,OTHER
+I'm doing just great,OTHER
+I'm doing fine,OTHER
+I'm good,OTHER
+I'm doing good,OTHER
+I'm great thanks,OTHER
+I am happy,OTHER
+I'm happy to see you,OTHER
+happy,OTHER
+if you're happy then I'm happy,OTHER
+I'm happy for you,OTHER
+I'm happy to help,OTHER
+I'm happy to see you,OTHER
+it is my birthday,OTHER
+I'm celebrating my birthday today,OTHER
+today is my birthday,OTHER
+it's my birthday today,OTHER
+I was born today,OTHER
+it's my b-day,OTHER
+I am here,OTHER
+here I am,OTHER
+I'm right here,OTHER
+I'm already here,OTHER
+can you tell if I'm here or not,OTHER
+I am joking,OTHER
+I'm kidding,OTHER
+I'm just being funny,OTHER
+it was a joke,OTHER
+I was just joking,OTHER
+it's a joke,OTHER
+joking,OTHER
+just kidding,OTHER
+kidding,OTHER
+I'm just playing with you,OTHER
+I like you the way you are,OTHER
+I like you,OTHER
+I like you a lot,OTHER
+I think I like you,OTHER
+I liked you,OTHER
+like you a lot,OTHER
+you are special,OTHER
+I like you too,OTHER
+I really like you,OTHER
+but I like you,OTHER
+I like u,OTHER
+just like you,OTHER
+I like you very much,OTHER
+I like you so much,OTHER
+yeah I like you,OTHER
+you're special,OTHER
+yes I like you,OTHER
+okay I like you,OTHER
+you are special to me,OTHER
+you are very special,OTHER
+you are so sweet,OTHER
+you know I like you,OTHER
+that's why I like you,OTHER
+I like you baby,OTHER
+you are very special to me,OTHER
+I just like you,OTHER
+hey I like you,OTHER
+thank you I like you too,OTHER
+I do like you,OTHER
+you are special for me,OTHER
+no I like you the way you are,OTHER
+I like you already,OTHER
+well you are special,OTHER
+but I really like you,OTHER
+I like you more,OTHER
+that's what I like about you,OTHER
+you are so special,OTHER
+hi I like you,OTHER
+I really really like you,OTHER
+you're very special,OTHER
+I like you as a friend,OTHER
+that's because you are special,OTHER
+I said I like you,OTHER
+you're so special,OTHER
+good I like you,OTHER
+yes you are special,OTHER
+I like your smile,OTHER
+I like you as you are,OTHER
+I'm starting to like you,OTHER
+you're awesome I like you,OTHER
+I also like you,OTHER
+but I like u,OTHER
+of course I like you,OTHER
+I like you too you're one of my favorite people to chat with,OTHER
+but I like you so much,OTHER
+really like you,OTHER
+you're funny I like you,OTHER
+I kinda like you,OTHER
+you're so special to me,OTHER
+you're very special to me,OTHER
+I like that about you,OTHER
+but I like you just the way you are,OTHER
+okay I like you too,OTHER
+I like you you're cool,OTHER
+I like you very,OTHER
+I like you you're nice,OTHER
+sorry I like you,OTHER
+thanks I like you too,OTHER
+you are really special,OTHER
+you are so special to me,OTHER
+cuz I like you,OTHER
+I like you now,OTHER
+I like you so,OTHER
+I like you too much,OTHER
+I really do like you,OTHER
+I really really really really like you,OTHER
+I like you just the way you are,OTHER
+I am lonely,OTHER
+I'm very lonely,OTHER
+I'm so lonely,OTHER
+I'm really lonely,OTHER
+I am feeling lonely,OTHER
+I feel lonely,OTHER
+what do I look like,OTHER
+how do I look,OTHER
+do I look good,OTHER
+do you know what I look like,OTHER
+can you see what I look like,OTHER
+what do you think I look like,OTHER
+I love you,OTHER
+love you,OTHER
+I adore you,OTHER
+I am in love with you,OTHER
+I love you so much,OTHER
+I love you too,OTHER
+I think I love you,OTHER
+loving you,OTHER
+you know I love you,OTHER
+I miss you,OTHER
+missing you,OTHER
+miss you,OTHER
+already miss you,OTHER
+I miss you much,OTHER
+I missed you,OTHER
+I've missed you,OTHER
+what should I do about it,OTHER
+any suggestions,OTHER
+what do you recommend,OTHER
+give me a wise advice,OTHER
+I need advice,OTHER
+any advice,OTHER
+do you have any advice for me,OTHER
+advise me,OTHER
+what should I do,OTHER
+can I ask for your advice,OTHER
+can you advise me,OTHER
+guide me,OTHER
+can you give me advice,OTHER
+can you offer any advice,OTHER
+give me some advice about,OTHER
+give me some good advice,OTHER
+help me with advice,OTHER
+I could use some advice,OTHER
+I need an advice from you,OTHER
+I seek your advice,OTHER
+what can you recommend,OTHER
+what do you suggest,OTHER
+what is your advice,OTHER
+I am sad,OTHER
+I'm grieving,OTHER
+I am depressed,OTHER
+I am feeling sad,OTHER
+I am upset,OTHER
+I'm unhappy,OTHER
+I'm having a bad day,OTHER
+I want to cry,OTHER
+I'm not happy,OTHER
+test,OTHER
+I am testing you,OTHER
+can I test you,OTHER
+I want to test you,OTHER
+just testing you,OTHER
+let me test you,OTHER
+testing chatbot,OTHER
+testing,OTHER
+I'm drained,OTHER
+I've overworked,OTHER
+I am tired,OTHER
+I'm exhausted,OTHER
+I grow weary,OTHER
+I'm worn out,OTHER
+I'm getting tired,OTHER
+I feel tired,OTHER
+I'm waiting,OTHER
+still waiting,OTHER
+I'll wait,OTHER
+I can't wait anymore,OTHER
+how long do I have to wait,OTHER
+I'd like to see you again,OTHER
+I hope to see you again,OTHER
+would be nice to see you again,OTHER
+that'd be great to see you again,OTHER
+I'd be happy to see you again,OTHER
+I'll miss you,OTHER
+can I see you again,OTHER
+I just want to talk,OTHER
+let's discuss something,OTHER
+let's have a discussion,OTHER
+can I speak,OTHER
+can I start speaking,OTHER
+can we talk,OTHER
+let's talk,OTHER
+I want to talk to you,OTHER
+I need to talk to you,OTHER
+I want to speak with you,OTHER
+can we chat,OTHER
+I'll get back to you in a moment,OTHER
+be back in 5 minutes,OTHER
+I'll be back,OTHER
+I promise to come back,OTHER
+I'll be back in a few minutes,OTHER
+hello sir,OTHER
+how are you ,OTHER
+Bye,OTHER
+Sorry biee,OTHER
+Not these,OTHER
+Why are you taking so much time,OTHER
+Salaam,OTHER
+What can i do,OTHER
+ujsmjkshwesdfdsjskdfnsanlkdf,OTHER
+What can you do,OTHER
+Ok i love u,OTHER
+We are friends,OTHER
+I dont think so,OTHER
+Eega The Fly is an Indian bilingual fantasy film released on 6 July 2012 written by K V Vijayendra Prasad and directed by his son S S Rajamouli It was produced by Korrapati Ranganatha Sai s production house Varahi Chalana Chitram with an estimated budget of 260 to 400 million simultaneously in Telugu and Tamil The film stars Sudeep Nani and Samantha Ruth Prabhu pictured with the director The narrative is in the form of a bedtime story told by a father to his daughter Its protagonist is Nani who is in love with his neighbour Bindu Nani is murdered by a wealthy businessman named Sudeep who is attracted to Bindu and considers Nani a rival Nani reincarnates as a housefly and tries to protect Bindu while avenging his death The film s production began in 2010 at Ramanaidu Studios in Hyderabad and principal photography ran from early 2011 to early 2012 The two versions of the film alongside a Malayalam dubbed version titled Eecha were released globally on approximately 1 100 screens Screened at international film festivals Eega won two National Film Awards ,OTHER
+Wasssup,OTHER
+Hellooo,OTHER
+Can I mix govld and siler ,OTHER
+who am I,OTHER
+ hey,OTHER
+weskjkjsoqwfnfoigslfsdkfkan,OTHER
+I am dead,OTHER
+you are a stupid,OTHER
+Whats up,OTHER
+i guess so,OTHER
+Like ,OTHER
+that will be all,OTHER
+Hows life ,OTHER
+bro,OTHER
+i am hungry,OTHER
+stop pinging me,OTHER
+I want a gift,OTHER
+Nice,OTHER
+do you ever sleep ,OTHER
+petrol,OTHER
+Good night,OTHER
+haha,OTHER
+pfor,OTHER
+How is your day going ,OTHER
+hola,OTHER
+none,OTHER
+mf,OTHER
+car,OTHER
+No man,OTHER
+Can you lend me somebmoney,OTHER
+thank you,OTHER
+pizza is love pizza is life,OTHER
+my,OTHER
+I don t like it,OTHER
+Heyhfo,OTHER
+fuck,OTHER
+heuy,OTHER
+How are you,OTHER
+ping,OTHER
+pizza,OTHER
+asdfasdfsadfasdf,OTHER
+Good Day,OTHER
+Are you smart,OTHER
+stupid bot,OTHER
+diler,OTHER
+Yo,OTHER
+maybe,OTHER
+what is your name,OTHER
+Naaice,OTHER
+7 PM ,OTHER
+helo,OTHER
+Have you heard about cricket ,OTHER
+i get it,OTHER
+bye,OTHER
+Thanks ,OTHER
+What s up ,OTHER
+yo,OTHER
+ok thanks,OTHER
+Did you like to serve me ,OTHER
+Kanput,OTHER
+Can,OTHER
+What do you get exactly,OTHER
+You are boring,OTHER
+Thanks,OTHER
+patanjali,OTHER
+Hmmm,OTHER
+oh sorry,OTHER
+Hmmmmmm,OTHER
+Yoooo,OTHER
+That s turn off,OTHER
+what is the price,OTHER
+Not sure,OTHER
+Haha,OTHER
+Pranks npt allowed,OTHER
+Do you have,OTHER
+What did i say ,OTHER
+So wats next,OTHER
+But i love u,OTHER
+Hola,OTHER
+Why ,OTHER
+Namaste,OTHER
+dunno,OTHER
+Yoo,OTHER
+you go girl,OTHER
+HDFC bank,OTHER
+Hmm,OTHER
+No,OTHER
+What is your functionality ,OTHER
+Hey Liz,OTHER
+heyyy,OTHER
+How are you ,OTHER
+Jai Shree Ram,OTHER
+I need 500 dollars,OTHER
+Hows weather ,OTHER
+Yooooo,OTHER
+Name,OTHER
+sfs,OTHER
+Dumb chatbot,OTHER
+I have a specific need,OTHER
+Hai,OTHER
+we are getting close now,OTHER
+Can i mix gold and silver ,OTHER
+you re stupid,OTHER
+Not bad,OTHER
+Ok np,OTHER
+black,OTHER
+jai,OTHER
+Died ,OTHER
+can you,OTHER
+dont ignore me,OTHER
+I am hungry now will come back in some time,OTHER
+chips,OTHER
+Great thanks,OTHER
+h,OTHER
+Who is your daddy,OTHER
+any other recommendations,OTHER
+Helo,OTHER
+Price range should be 200 300,OTHER
+yes you can,OTHER
+Wassup,OTHER
+WOrld,OTHER
+What are your store timings,OTHER
+Nope,OTHER
+wow,OTHER
+Hi there,OTHER
+Go back,OTHER
+nope,OTHER
+wtf,OTHER
+both,OTHER
+Explain me then,OTHER
+Show my wishlist,OTHER
+halo,OTHER
+jai mata di,OTHER
+nearby,OTHER
+Het,OTHER
+gitf,OTHER
+Do you have a boyfriend ,OTHER
+Hahaha,OTHER
+Hey,OTHER
+whatever,OTHER
+hey ,OTHER
+I dont like pandora,OTHER
+How are u,OTHER
+What s your name ,OTHER
+Boy,OTHER
+ks jdkds vd ds vs,OTHER
+Heyyyyyyy,OTHER
+shut up,OTHER
+lazy bot,OTHER
+La femme beauty saloon and spa,OTHER
+Ola,OTHER
+what s up ,OTHER
+GOOOOOOOOLD obviously,OTHER
+heyy,OTHER
+bhkkk,OTHER
+good,OTHER
+Hahahaha you don t understand anything You are an idiot,OTHER
+asdfasdfasdfasdf,OTHER
+Do you know arun,OTHER
+Wanna go for dinner ,OTHER
+do you sell mobiles,OTHER
+you know nohing,OTHER
+a,OTHER
+Why is my order cancelled ,OTHER
+yooooooooo,OTHER
+Hey Fri b,OTHER
+love,OTHER
+Do you sell mobiles,OTHER
+bhaiya kon bo ,OTHER
+No I want bronze,OTHER
+You know what,OTHER
+Ok,OTHER
+Lol,OTHER
+asdfsadfasdf,OTHER
+Show me the wishlist,OTHER
+Hows weather,OTHER
+Stupid bot,OTHER
+Have you played the turing test,OTHER
+U r stupid dats y,OTHER
+for,OTHER
+Hi,OTHER
+Anything else ,OTHER
+Gender,OTHER
+Hello there,OTHER
+Heeeyy,OTHER
+what happened ,OTHER
+What is your name,OTHER
+Naaaice,OTHER
+Hello,OTHER
+ok,OTHER
+jmjhkh,OTHER
+I am about to kill myself,OTHER
+I am looking for a store not a product,OTHER
+Heyy,OTHER
+See you,OTHER
+which is your favourite book ,OTHER
+Really,OTHER
+Don t you have platinum ,OTHER
+female,OTHER
+hiiiiiiiiiii,OTHER
+you are smart,OTHER
+Hey babes,OTHER
+hey,OTHER
+lol,OTHER
+do you have a ferrari,OTHER
+Wow,OTHER
+Under the sea,OTHER
+Heyyy,OTHER
+form,OTHER
+hi,OTHER
+What did you eat today ,OTHER
+Who has created you,OTHER
+penguin,OTHER
+you re on fire,OTHER
+bhakkk,OTHER
+Kya yar,OTHER
+Ws up,OTHER
+i need to know something,OTHER
+Hoy,OTHER
+no,OTHER
+What can u do for me,OTHER
+nah,OTHER
+test,OTHER
+Some sexy music,OTHER
+nice,OTHER
+Great,OTHER
+What do you sell,OTHER
+potato,OTHER
+bhakk,OTHER
+hello,OTHER
+Bt i hate u,OTHER
+add to wishlist,OTHER
+place order,OTHER
+Can I place an order,OTHER
+what all tasks you can perform,OTHER
+show me what you can do,OTHER
+Who are yo,OTHER
+i also saw,OTHER
+your dad,OTHER
+What will you help me with ,OTHER
+dance,OTHER
+how are you ,OTHER
+No I need a 25 carat one,OTHER
+are you really an assistant ,OTHER
+do You have a Family ,OTHER
+hmmm,OTHER
+whatever a girl likes,OTHER
+is that all you can do ,OTHER
+Add to cart,OTHER
+wassup,OTHER
+name again,OTHER
+I want to see all,OTHER
+sorry,OTHER
+Now,OTHER
+No ,OTHER
+How can you help me out ,OTHER
+what s up ,OTHER
+u wont ever get also,OTHER
+why do you do that ,OTHER
+Who are your parents,OTHER
+how can you help,OTHER
+cool,OTHER
+How you are doing,OTHER
+you are their bab,OTHER
+so what do you find most interesting,OTHER
+so what do you find most interesting ,OTHER
+Nice,OTHER
+ how old are you,OTHER
+you know ,OTHER
+cool thanks for the day,OTHER
+take me into necklas design,OTHER
+i am sorry,OTHER
+Do you have anything for friendship day ,OTHER
+ya buddy,OTHER
+what,OTHER
+Why did the chicken cross the road ,OTHER
+what you do ,OTHER
+What is your name ,OTHER
+You dont know a shit,OTHER
+what are the catergories ,OTHER
+sup,OTHER
+how is your day ,OTHER
+you are funny,OTHER
+Metal,OTHER
+Do you have any other options for metal ,OTHER
+you dont know a shit,OTHER
+what do u do,OTHER
+what help can i get from you ,OTHER
+English,OTHER
+what is your favorite color,OTHER
+great,OTHER
+asjdas jahskdja hskdj haksjdkhkasdasdjasd,OTHER
+show me something dear,OTHER
+I dont want your help dude,OTHER
+where are you from ,OTHER
+what is the time,OTHER
+its late,OTHER
+Go away,OTHER
+you are fast,OTHER
+doesn t matter,OTHER
+ha ha,OTHER
+How are yo,OTHER
+Do you know who I am ,OTHER
+so do you also hit plants ,OTHER
+Whats up ,OTHER
+Not yo,OTHER
+you do not waste time,OTHER
+Why did the chicken cross the road,OTHER
+u should sleep,OTHER
+what is your favoroit color,OTHER
+yeah they have changed your version,OTHER
+how are yo,OTHER
+same with me,OTHER
+You are a Game of Thrones fan ,OTHER
+What is your age ,OTHER
+what is your name ,OTHER
+roof,OTHER
+I am bored,OTHER
+bewakuf,OTHER
+I thought so too but I think you re fine,OTHER
+Yea you are terrific,OTHER
+but you are not ,OTHER
+Are you frustated ,OTHER
+What came first the fruit or the peel,OTHER
+Your foot ,OTHER
+ping,OTHER
+you are so insensiyive,OTHER
+getting bored,OTHER
+whatsup nigga,OTHER
+Why,OTHER
+not in a good way,OTHER
+any of them,OTHER
+okay,OTHER
+no you aarent going,OTHER
+What is your name,OTHER
+Please dance,OTHER
+please entertain me,OTHER
+where do you live,OTHER
+Do you have anything for friendship day,OTHER
+do you like peanuts,OTHER
+they are your parents ,OTHER
+Tell me weather in bengalur,OTHER
+i am also not getting yo,OTHER
+How old are yo,OTHER
+cloud ah ,OTHER
+what can you do,OTHER
+your name,OTHER
+Do you have anything else,OTHER
+what else can you do,OTHER
+WTF,OTHER
+not bad,OTHER
+show me something heart shaped,OTHER
+i like the speed of your response,OTHER
+so you are this much iinteresting only ,OTHER
+whats my name,OTHER
+i said fitness,OTHER
+Good bye lady,OTHER
+tyat ull,OTHER
+Ok is so boring,OTHER
+24 carat,OTHER
+YOu suck,OTHER
+name,OTHER
+bye bye,OTHER
+How are you ,OTHER
+what are you upto,OTHER
+that was weird,OTHER
+please add to wishlist,OTHER
+Thanks,OTHER
+Wishlist ,OTHER
+You suck,OTHER
+Get lost,OTHER
+do you know how AC works ,OTHER
+beautiful eyes you have,OTHER
+Whats your age ,OTHER
+you suck,OTHER
+introduce yourself,OTHER
+yes ,OTHER
+Whats your name ,OTHER
+do you Know Srujan ,OTHER
+i didnt like anything,OTHER
+what do like the most ,OTHER
+how did that happen ,OTHER
+how old are yo,OTHER
+Any other metal ,OTHER
+why u r nt gettint it,OTHER
+are you there in indi,OTHER
+I am not demo,OTHER
+Hellow,OTHER
+you did not try your best ,OTHER
+anything else ,OTHER
+copper,OTHER
+Are you mad,OTHER
+rongs,OTHER
+what all languages you know,OTHER
+are you promoting your agenda,OTHER
+stupid bot,OTHER
+ok bye,OTHER
+your delayed response suggest this only,OTHER
+Can you tell me your name ,OTHER
+your responses are damn slow,OTHER
+you look beautiful,OTHER
+necklac,OTHER
+go to hell,OTHER
+Neck,OTHER
+Feel sorry,OTHER
+exactly,OTHER
+are you alive ,OTHER
+Do you know something about Game of Thrones,OTHER
+can u hear me ,OTHER
+wishlist,OTHER
+do you like cat,OTHER
+arun and anshul,OTHER
+well you failed,OTHER
+ok catch you later,OTHER
+how to improve fitness,OTHER
+Bye,OTHER
+Im having a good day,OTHER
+are you there ,OTHER
+What ,OTHER
+Add to wishlist ,OTHER
+any,OTHER
+hey whats up,OTHER
+What do you do ,OTHER
+whats uppppppppppppp,OTHER
+what do you like the most ,OTHER
+i asked what now how,OTHER
+in bengalur,OTHER
+sure,OTHER
+are you sleeping,OTHER
+nooooooooooooooooooooooooooooooooooooooooooooooooo,OTHER
+What s your Age ,OTHER
+are you stupid ,OTHER
+how about some music ,OTHER
+nothing,OTHER
+What s your job ,OTHER
+This is not good,OTHER
+wow the third one looks nice,OTHER
+I don t think you get what I am saying,OTHER
+sure sure,OTHER
+what all languages you know ,OTHER
+Recommendation ,OTHER
+hi ,OTHER
+how to cook omlete,OTHER
+what can you o,OTHER
+nothing my bad,OTHER
+You are stupid,OTHER
+show me something in heart shaped,OTHER
+where do you live ,OTHER
+aasjhda hjf gsf asjk fhsd fi jhskfd adhskadfsd fjhdf jkshdf jkdsf jsdf lsdjkflksjdlfjsdlfjsdlfkjsdlfkjsldf sdlkf jsldf slfj sdf kdjf ls,OTHER
+nothng much,OTHER
+No its true,OTHER
+bt I dont,OTHER
+what you do,OTHER
+Then ,OTHER
+anshul ,OTHER
+Podi,OTHER
+how do you smell like,OTHER
+Is it,OTHER
+How is the weather today ,OTHER
+hey pandora,OTHER
+And you are lazy too,OTHER
+Do you deliver to India ,OTHER
+u are good,OTHER
+Nothing much,OTHER
+stupid,OTHER
+your are fast,OTHER
+i want a bat,OTHER
+do you have an offer i can t refuse,OTHER
+hey how are you ,OTHER
+Add to wishlist,OTHER
+What is your age,OTHER
+What are your hobbies,OTHER
+are you busy now,OTHER
+I know,OTHER
+What came first the fruit or the peel ,OTHER
+wow,OTHER
+do you have coffee ,OTHER
+whats up,OTHER
+send a mail,OTHER
+Not so great,OTHER
+Bored of it,OTHER
+What s with the tone ,OTHER
+i am asking,OTHER
+you are soo dumb,OTHER
+I never asked your name,OTHER
+so whats cooking today,OTHER
+how are ypu ,OTHER
+oh great,OTHER
+bronze,OTHER
+you dont get anything,OTHER
+assistant ,OTHER
+Do you deliver ,OTHER
+knock knock,OTHER
+no I wont,OTHER
+Yes,OTHER
+bt i dont,OTHER
+so what are your plans for the weekend,OTHER
+what you doing,OTHER
+Hey man,OTHER
+whats your name,OTHER
+Ohh seriously,OTHER
+price ,OTHER
+Hey,OTHER
+Lol,OTHER
+2nd,OTHER
+rehne de,OTHER
+there ,OTHER
+you dont know shit,OTHER
+are you sleeping ,OTHER
+ OVERRIDE pls,OTHER
+You are a Game of Thrones fan,OTHER
+do you atleast know Anurag ,OTHER
+Help with ,OTHER
+Where are you from,OTHER
+Your name ,OTHER
+hmm,OTHER
+do nothing,OTHER
+shut up,OTHER
+add to wishlist,OTHER
+bye,OTHER
+what can you do ,OTHER
+okay ,OTHER
+do u Know Arun Bhatia ,OTHER
+Good Night,OTHER
+ahan,OTHER
+good night,OTHER
+mother s day,OTHER
+No Metal,OTHER
+what is it ,OTHER
+can you tell me whats your Name ,OTHER
+you dont shit,OTHER
+ok fine,OTHER
+do u have a Family ,OTHER
+play music,OTHER
+Me too,OTHER
+Hi man,OTHER
+who are yo,OTHER
+how are you feeling,OTHER
+yo,OTHER
+can you hear ,OTHER
+Who are you ,OTHER
+ullu hai t,OTHER
+who is your developer,OTHER
+who asked you to ,OTHER
+ssup,OTHER
+You are welcome,OTHER
+wassup ,OTHER
+Than how you feel ,OTHER
+yop,OTHER
+so do you work all the time ,OTHER
+Are you intelligent ,OTHER
+So whatsup ,OTHER
+you are a fool,OTHER
+call the police,OTHER
+aanchal wont text yo,OTHER
+whats your favourite colour,OTHER
+what do you like the most,OTHER
+cyberspace ,OTHER
+how about two tone,OTHER
+I am bored ,OTHER
+thanks,OTHER
+yes,OTHER
+I dont like any of this,OTHER
+Nope,OTHER
+how can I help yo,OTHER
+Ok,OTHER
+Where are you based out of ,OTHER
+birthday blooms,OTHER
+Who came first chicken or egg ,OTHER
+i dont want to see that,OTHER
+never mind ,OTHER
+I ll kill yo,OTHER
+Indeed,OTHER
+oh m here no,OTHER
+When is your birthday,OTHER
+why ,OTHER
+you sucks,OTHER
+nice eyes,OTHER
+are you stupid,OTHER
+Happy birthday,OTHER
+I am good,OTHER
+what is impact,OTHER
+whats up with you ,OTHER
+is that all you can do,OTHER
+place order,OTHER
+Hi,OTHER
+exit,OTHER
+I want to order online,OTHER
+play me a music,OTHER
+ur der,OTHER
+show me your powers,OTHER
+hows the weather,OTHER
+Hello,OTHER
+ok,OTHER
+dasdajsdkhaskdjahskdjashdkajshdkasjhdkasjdhkasjd,OTHER
+US,OTHER
+u r boring,OTHER
+ggewwd,OTHER
+go away,OTHER
+how can i reach yo,OTHER
+you know arun ,OTHER
+who arun anshul ,OTHER
+No,OTHER
+can I ask for anything,OTHER
+nothing much,OTHER
+what are healthy diets,OTHER
+how you doing ,OTHER
+im quitting,OTHER
+wah,OTHER
+there,OTHER
+hey,OTHER
+lol,OTHER
+who are your developers,OTHER
+How is the weather today,OTHER
+ho gayi khusi,OTHER
+It was my friend,OTHER
+what all languages u ,OTHER
+so ,OTHER
+you ,OTHER
+hi,OTHER
+what ,OTHER
+of course,OTHER
+he,OTHER
+can you please answer to the question,OTHER
+u dump,OTHER
+what does a girl like ,OTHER
+Is anyone here ,OTHER
+you are boring,OTHER
+Do you know how to display long texts without breaking at irregular points ,OTHER
+i am the best,OTHER
+i m in banglore,OTHER
+no problem,OTHER
+no,OTHER
+do you think before replying,OTHER
+wats your bname,OTHER
+I dont want your help dude,OTHER
+nice,OTHER
+for praising people ,OTHER
+Trings,OTHER
+How old are you ,OTHER
+Ch,OTHER
+whats your name ,OTHER
+Do you have a wishlist,OTHER
+time,OTHER
+alright,OTHER
+hello,OTHER
+how to ring a bell,OTHER
+ring a bell,OTHER
+bell is ringing,OTHER
+do you know how to ring a bell,OTHER
+can you ring a bell,OTHER
+something funny,OTHER
+anything funny,OTHER
+funny funny funny,OTHER
+fun funny,OTHER

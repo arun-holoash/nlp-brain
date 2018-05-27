@@ -1,0 +1,5 @@
+{
+  "menu" : ["menu", "eat"],
+  "drink" : ["drink", "drinks", "beverages"],
+  "order" : ["order"]
+}
