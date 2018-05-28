@@ -6,6 +6,7 @@ from core.project_constants import intent_dict
 from core.sen2vec import Sentence2Vec
 from core import project_constants
 import numpy as np
+from keras.models import load_model
 
 __author__ = 'Arun Bhatia'
 
@@ -27,9 +28,17 @@ class ProjectTools:
             training_vectors.append(np.append(single_datapoint, self.get_class_index(cat)))
 
         with open(training_vector_path, 'wb+') as file_obj:
-            cPickle.dump(training_vectors, file_obj)
+            cPickle.dump(training_vector_path, file_obj)
 
         return training_vectors
+
+    def read_feature_vector_file(self, vec_file_loc):
+        """
+        Reads feature vector file from vec_file_loc
+        :return:
+        """
+        with open(vec_file_loc, 'wb+') as file_obj:
+            cPickle.dump(vec_file_loc, file_obj)
 
     def get_training_data(self):
         """
@@ -79,4 +88,20 @@ class ProjectTools:
         @param cat_index:
         @return:
         """
-        return intent_dict.keys()[intent_dict.values().index(cat_index)]
+        return list(project_constants.intent_dict.keys())[list(project_constants.intent_dict.values()).index(cat_index)]
+
+    def load_model(self, model_path):
+        """
+        Loads model from the model_path and returns model
+        :param model_path:
+        :return:
+        """
+        return load_model(model_path)
+
+    def get_single_data_vector(self, query):
+        """
+        Returns vector form of the query
+        :param query:
+        :return:
+        """
+        return self.s2v.get_sen2vec(query)

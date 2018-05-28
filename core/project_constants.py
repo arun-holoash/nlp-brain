@@ -22,6 +22,17 @@ intent_dict[OTHER] = 3
 
 QUERY = 'query'
 INTENT = 'intent'
+ENTITIES = 'entities'
+SENTIMENT = 'sentiment'
+DIMS = 300
+KERAS_MODEL_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "trained_models/keras_" +  str(DIMS) + ".h5"))
+
+QUERY_RESULT_SKELTON = {
+
+    INTENT: None,
+    ENTITIES: [],
+    SENTIMENT: None
+}
 
 
 
@@ -36,3 +47,4 @@ OTHER_SKELTON_QUERIES_PATH = os.path.abspath(os.path.join(os.path.dirname(__file
 
 TRAINING_VECTOR_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..",
                                                     "resources/training_files/training_vectors.pkl"))
+
