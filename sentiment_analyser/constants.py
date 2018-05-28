@@ -1,0 +1,6 @@
+_ = 'sentiment'
+POSITIVE = 'POSITIVE'
+NEUTRAL = 'NEUTRAL'
+NEGATIVE = 'NEGATIVE'
+ATTR_COMPOUND = 'compound'
+ATTR_SCORE = 'score'
